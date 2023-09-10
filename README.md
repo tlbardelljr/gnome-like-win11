@@ -20,9 +20,19 @@ Make Gnome look like win11
 Debian 12 / Gnome 43.6
 
 # Installation
-wget https://raw.githubusercontent.com/tlbardelljr/gnome-like-win11/main/gnome-like-win11.sh<br>
-chmod +x ./gnome-like-win11.sh<br>
+
+
+```
+wget https://raw.githubusercontent.com/tlbardelljr/gnome-like-win11/main/gnome-like-win11.sh
+```
+
+```
+chmod +x ./gnome-like-win11.sh
+```
+
+```
 ./gnome-like-win11.sh
+```
 
 # Images
 <a href="https://github.com/tlbardelljr/gnome-like-win11/blob/main/images/1.png?raw-true"><img src="https://github.com/tlbardelljr/gnome-like-win11/blob/main/images/1.png?raw-true" align="left" height="281" width="500" ></a> 
