@@ -100,8 +100,8 @@ gsettings set org.gnome.shell enabled-extensions "['aztaskbar@aztaskbar.gitlab.c
 
 #set wallpaper
 if [[ ! -f "$PICTURES_FOLDER"/wallpaper-windows.png ]]; then 
-wget https://4kwallpapers.com/images/wallpapers/windows-11-dark-mode-blue-stock-official-3840x2400-5630.jpg
-mv windows-11-dark-mode-blue-stock-official-3840x2400-5630.jpg "$PICTURES_FOLDER"/wallpaper-windows.png
+wget https://raw.githubusercontent.com/tlbardelljr/gnome-like-win11/main/images/wallpaper.png
+mv wallpaper.png "$PICTURES_FOLDER"/wallpaper-windows.png
 fi
 gsettings set org.gnome.desktop.background picture-uri file:///"$PICTURES_FOLDER"/wallpaper-windows.png
 
