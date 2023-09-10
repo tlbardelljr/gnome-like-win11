@@ -154,6 +154,8 @@ gsettings set org.gnome.shell.extensions.mediacontrols show-control-icons "false
 gsettings set org.gnome.shell.extensions.mediacontrols show-sources-menu "false"
 gsettings set org.gnome.shell.extensions.mediacontrols show-text "false"
 
+gsettings set org.gnome.shell disabled-extensions "['ubuntu-dock@ubuntu.com']"
+
 read -p "Press enter to restart Gnome"
 killall -3 gnome-shell
 	
