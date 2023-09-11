@@ -17,7 +17,7 @@ Make Gnome look like win11
 &nbsp; Fluent-gtk-theme<br><br>
 
 # Tested On
-Debian 12 / Gnome 43.6
+Debian 12 / Gnome 43.6<br>
 Ubuntu 22.04 / Gnome 42.9
 
 # Installation
