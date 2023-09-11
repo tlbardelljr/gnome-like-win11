@@ -18,6 +18,7 @@ Make Gnome look like win11
 
 # Tested On
 Debian 12 / Gnome 43.6
+Ubuntu 22.04 / Gnome 42.9
 
 # Installation
 
@@ -32,6 +33,11 @@ chmod +x ./gnome-like-win11.sh
 
 ```
 ./gnome-like-win11.sh
+```
+&nbsp;<b>optional</b><br>(tools for modifying theme)
+
+```
+sudo apt install gnome-tweaks gnome-shell-extensions gnome-shell-extension-prefs
 ```
 
 # Images
