@@ -6,7 +6,7 @@
    #           Copyright (C) 2023 Terry Bardell Jr.                #
    #       Licensed under the GNU General Public License 3.0       #
    #                                                               #
-   #               						   #
+   #       https://github.com/tlbardelljr/gnome-like-win11	   #
    #                                                               #
    #################################################################
 
