@@ -398,4 +398,5 @@ done
 clear
 echo "Thank you for using $installer_name"
 read -p "Press enter to restart Gnome"
+rm gnome-like-win11.sh
 killall -3 gnome-shell
