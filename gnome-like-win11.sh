@@ -23,7 +23,9 @@ my_options=(   	"aztaskbar@aztaskbar.gitlab.com"
 		"Fluent-gtk-theme"
 		"settings"
 		"wallpaper-windows"
-		
+  		"unlockDialogBackground@sun.wxg@gmail.com"
+		"quick-settings-tweaks@qwreey"
+		"WallpaperSwitcher@Rishu"
 	   )
 preselection=( 	"true"
 		"true"
@@ -38,6 +40,9 @@ preselection=( 	"true"
 		"true"
 		"true"
 		"true"
+  		"false"
+		"false"
+		"false"
 	      )
 installer_name="tlbardelljr Gnome like win11"
 sdoutColor=250
