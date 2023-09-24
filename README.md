@@ -20,7 +20,7 @@ Make Gnome look like win11
 Debian 12 / Gnome 43.6<br>
 Ubuntu 22.04 / Gnome 42.9<br>
 Fedora 38 / Gnome 44.0<br>
-OpenSUSE / Gnome 44.4
+OpenSUSE Leap 15.5 / Gnome 41.8
 
 # Installation
 
