@@ -360,12 +360,12 @@ function multiselect {
 clear
 TRows=$(tput lines)
 TCols=$(tput cols)
-if (( "80" > ${TCols} )); then
+if (( "90" > ${TCols} )); then
    	clear
    	Header
 	echo -e ' '
       	echo "Terminal not wide enough ($TCols - columns)"
-      	echo "Need 80 columns. Make terminal wider."
+      	echo "Need 90 columns. Make terminal wider."
       	exit
 fi
 if (( "23" > ${TRows} )); then
