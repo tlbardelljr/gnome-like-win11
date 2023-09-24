@@ -368,12 +368,12 @@ if (( "90" > ${TCols} )); then
       	echo "Need 90 columns. Make terminal wider."
       	exit
 fi
-if (( "23" > ${TRows} )); then
+if (( "30" > ${TRows} )); then
    	clear
    	Header
 	echo -e ' '
       	echo "Terminal not tall enough ($TRows - rows)"
-      	echo "Need 23 rows. Make terminal taller."
+      	echo "Need 30 rows. Make terminal taller."
       	exit
 fi
 
